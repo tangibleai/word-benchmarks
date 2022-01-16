@@ -1,6 +1,7 @@
 # Benchmarks for intrinsic evaluation word embeddings
 
-## **THE DEVELOPMENT STOPPED, PROJECT TRANSFERRED TO [VECTO](https://github.com/vecto-ai)**
+From [Amir Bakarov](https://github.com/bakarov)'s work on his [word-benchmarks](https://github.com/vecto-ai/word-benchmarks) repo.
+Updated to include FastText and included in the [``nessvec`` package](gitlab.com:tangibleai/nessvec)
 
 ### 1. Word semantic similarity ####
 
